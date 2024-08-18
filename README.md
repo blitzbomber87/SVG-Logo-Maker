@@ -29,10 +29,10 @@ Video Walkthrough here....https://drive.google.com/file/d/1UGG9zv7RPrrbtYArHEyGV
 
 Inquirer prompt questions...
 
-![questions](https://github.com/user-attachments/assets/8396eec4-3a0f-4156-adfa-bd1cc4403569)
+![questions](https://github.com/user-attachments/assets/3c394c49-1a8e-426e-aaae-050176ef9163)
 
 Logo example...
-![logo](https://github.com/user-attachments/assets/e33754ce-b72f-4ca5-94cf-a51a4e6ab830)
+![logo](https://github.com/user-attachments/assets/70633ee9-da48-4161-ae4f-b801cf4e5a09)
 
 ## Credits
 Eli - https://github.com/blitzbomber87
